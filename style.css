@@ -1,0 +1,27 @@
+div {
+    Margin: 0 0 0 100px;
+    height: 500px;
+    width: 500px;
+    border-radius: 100%;
+    background-color: green;
+}
+
+div:hover {
+    background-color: red;
+    border-radius: 5%;
+}
+
+p {
+    margin: 0 0 0 100px;
+    font-size: 40px;
+}
+
+h1{
+    padding: 125px 0 0 100px;
+    font-size: 50px;
+    color: white;
+}
+li {
+    margin: 0 0 0 100px;
+    font-size: 35px;
+}
